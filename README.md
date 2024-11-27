@@ -11,7 +11,9 @@ agent can perform.
 
 The goal is to train an agent to balance a pole attached (by a frictionless joint) to a moving (frictionless) cart by applying a fixed force to the cart in either the left or right direction. Therefore, a DQN is trained such that it keeps the pole balanced (upright) for as many
 steps as possible. The optimal policy will account for deviations from the upright position and push the cartpole such
-that it remains balanced. ![Cart Pole Documentation](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
+that it remains balanced. [Cart Pole Documentation](https://gymnasium.farama.org/environments/classic_control/cart_pole/)
+
+
 
 ### Example Solution Runs:
 
